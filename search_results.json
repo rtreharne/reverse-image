@@ -1,0 +1,701 @@
+{
+  "search_metadata": {
+    "id": "65428e3687a0ee5a52d60450",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9e0b6af8745bb3c8/65428e3687a0ee5a52d60450.json",
+    "created_at": "2023-11-01 17:43:18 UTC",
+    "processed_at": "2023-11-01 17:43:18 UTC",
+    "google_lens_url": "https://lens.google.com/uploadbyurl?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63kOWBIsQWHv9agSv4r9LAUHYs5frx_4udBxbvV0aSe2w_DVivob5VzWWaJEygJeNyPM&usqp=CAU",
+    "raw_html_file": "https://serpapi.com/searches/9e0b6af8745bb3c8/65428e3687a0ee5a52d60450.html",
+    "prettify_html_file": "https://serpapi.com/searches/9e0b6af8745bb3c8/65428e3687a0ee5a52d60450.prettify",
+    "total_time_taken": 1.73
+  },
+  "search_parameters": {
+    "engine": "google_lens",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63kOWBIsQWHv9agSv4r9LAUHYs5frx_4udBxbvV0aSe2w_DVivob5VzWWaJEygJeNyPM&usqp=CAU"
+  },
+  "reverse_image_search": {
+    "link": "https://www.google.com/search?tbs=sbi:AMhZZitpvOxux3k9O-XXNoX8y57o2f-F926EZf8IiGI7zSOyOP-FAZ0NsrOQNa9FDtYdHiOPPqfJjoKVePjJrFrnx1aMawQFb47gm28YAOz5wDdB_1hib4vVU_1CvTnmtRuBxFb-ko4qtOifrM2oDfRrBGJOXh4h0bLQ"
+  },
+  "text_results": [
+    {
+      "text": "THE",
+      "link": "https://www.google.com/search?q=THE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=THE"
+    },
+    {
+      "text": "HITCHHIKERS",
+      "link": "https://www.google.com/search?q=HITCHHIKERS",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=HITCHHIKERS"
+    },
+    {
+      "text": "DOUGLAS",
+      "link": "https://www.google.com/search?q=DOUGLAS",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=DOUGLAS"
+    },
+    {
+      "text": "ADAMS",
+      "link": "https://www.google.com/search?q=ADAMS",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ADAMS"
+    }
+  ],
+  "knowledge_graph": [
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "subtitle": "Novel series",
+      "link": "https://www.google.com/search?q=The+Hitchhiker%27s+Guide+to+the+Galaxy&kgmid=/m/07q2d&hl=en-US&gl=US",
+      "more_images": {
+        "link": "https://www.google.com/search?q=The+Hitchhiker%27s+Guide+to+the+Galaxy&kgmid=/m/07q2d&ved=0EOTpBwgAKAAwAA&source=.lens.button&tbm=isch&hl=en-US&gl=US",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F07q2d&q=The+Hitchhiker%27s+Guide+to+the+Galaxy&tbm=isch"
+      },
+      "images": [
+        {
+          "title": "Image #1 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://hitchhikers.fandom.com/wiki/Quintessential_Phase",
+          "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlcU5NkCvQnGn3obxuOcFc-0cAt-xh1ZNr7iffNAisxOqYE5Rh",
+          "size": {
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "title": "Image #2 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg",
+          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0CyklvA4oPHZlBKSx6Za72zn8yxRcskslbCwb1H1GeDQN_9x",
+          "size": {
+            "width": 200,
+            "height": 350
+          }
+        },
+        {
+          "title": "Image #3 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://listofdeaths.fandom.com/wiki/The_Hitchhiker%27s_Guide_To_The_Galaxy_(book_series)",
+          "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPgBzkl9_8Xk_Z-mzIPE26rRCbcg8ZB9C9FAvE26S7ijoQbLjo",
+          "size": {
+            "width": 353,
+            "height": 513
+          }
+        },
+        {
+          "title": "Image #4 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://the-bibliofile.com/hitchhikers-guide-to-the-galaxy-hulu-series-movie-release-cast-trailer-film/",
+          "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2VccKhaXEMHQ4SOOA4r_VJMrG_UmmptL93rlvWmQe_IE4FrLL",
+          "size": {
+            "width": 800,
+            "height": 800
+          }
+        },
+        {
+          "title": "Image #5 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://time.com/3490758/hitchhikers-guide-galaxy/",
+          "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2q5pwgacZs3twM8vk2cnFjCXRsCXE4stQep6JatDmchYy6IEh",
+          "size": {
+            "width": 451,
+            "height": 700
+          }
+        },
+        {
+          "title": "Image #6 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://www.imdb.com/title/tt0081874/",
+          "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWd5psqceBIBIz4lAisKSRVecBAdZmazbeWJoQMxtLhTg1YaU7",
+          "size": {
+            "width": 1000,
+            "height": 1422
+          }
+        },
+        {
+          "title": "Image #7 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://www.imdb.com/title/tt0371724/",
+          "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRUohiK4yrMpdsyF-pqDaOos5QNFv9yMaeoh1wvc6Wlc7Xi7QD",
+          "size": {
+            "width": 1000,
+            "height": 1475
+          }
+        },
+        {
+          "title": "Image #8 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://www.economist.com/prospero/2020/03/06/the-hitchhikers-guide-to-the-galaxy-turns-42",
+          "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwyIk4JE6FCwXZKUH_w7u-HRUjHh40vKQXLKKz_V-ow3u6EFqD",
+          "size": {
+            "width": 1280,
+            "height": 720
+          }
+        },
+        {
+          "title": "Image #9 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://www.wired.com/2009/11/and-another-thing-a-totally-improbable-review/",
+          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD2CPTXX45ITs1zTc26feg-m9GTaoqVolrJ4953a6e55biu82h",
+          "size": {
+            "width": 1457,
+            "height": 2244
+          }
+        },
+        {
+          "title": "Image #10 for The Hitchhiker's Guide to the Galaxy",
+          "source": "https://www.theguardian.com/childrens-books-site/2015/jul/09/the-hitchhikers-guide-to-the-galaxy-by-douglas-adams-review",
+          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5Fsi7afEa8lB1hvKCBFR9xk04zJbtKXiiKrIHNvqfGe8zDQR",
+          "size": {
+            "width": 700,
+            "height": 1054
+          }
+        }
+      ]
+    }
+  ],
+  "visual_matches": [
+    {
+      "position": 1,
+      "title": "\u201cThe Hitchhiker\u2019s Guide to the Galaxy\u201d by Douglas Adams | by SummaryShelf | Medium",
+      "link": "https://medium.com/@joelgigi009/the-hitchhikers-guide-to-the-galaxy-by-douglas-adams-684810b9931b",
+      "source": "Medium",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRWBs_yCHe46wnwYqSYMzlohZesG8HK9hN684DcXkXcUBi1m0tCn0vUhr0s3NsbdPLMxbMgCNZNvpgZjvOQC8qqAbEcExFN3d65XbVI8qr1",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLk8UMdCYLchZ6eW4Rac2RG_Q2NPvNhczzc41q3ldotBeonVJS"
+    },
+    {
+      "position": 2,
+      "title": "Pin on Read Me!",
+      "link": "https://www.pinterest.com/pin/396527942189789604/",
+      "source": "Pinterest",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTQdhYKRbbqgCC_hUKbg1LBwalc5hFvDef04aKtEm4ymk1UmePKJrPlt_LjHvB7Aq1dYoIBbiIJ1NlsjKc5XTus20V-QeQkUPl9ea4gZzUE1nhIYNB2UA",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRen5HFszlH9fPC6bhAYkp1ZU7jYG0mGi7PeauEP1IbORIYwbEK"
+    },
+    {
+      "position": 3,
+      "title": "Book Review: The Hitchhiker\u2019s Guide to the Galaxy | the starving artist",
+      "link": "https://devontrevarrowflaherty.com/2021/07/19/book-review-the-hitchhikers-guide-to-the-galaxy/",
+      "source": "devontrevarrowflaherty.com",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTkhbB8i8jardHYE3WnhHbq17sy7vwMnDgTm8ZZlVyoCCLgc3tdS3lIWAdPeHP5_2khUGFIV85xSpe7fNAoMtEeQLHabSozohVa-5K3h2vsbGWacgLXFVxSbXuaQ9b_5g",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmpk_vQUgiS_9ow0AkykPzzytmztjeGpWk00HHXvuXSFZiS6dY"
+    },
+    {
+      "position": 4,
+      "title": "I should reallyget out more.: Illustration: Hitchhikers Guide to the Galaxy redux | Hitchhikers guide to the galaxy, Guide to the galaxy, Hitchhikers guide",
+      "link": "https://in.pinterest.com/pin/664140276283266526/",
+      "source": "Pinterest",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSYpax9-23w3k55h5fvk6iCbcYzKnm1qjhMsJ1P4Bb4O6gI2DZH7bYpZ5seEAXynHj3p4A6cHFAP_wbQ2CvnQYaOUp6ihp29pqECCB1pKH0MRnuasA6",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS35wDEViMmdwDbfhV6UFE44hv2J5l8v163GdEndNfhDfoktnkL"
+    },
+    {
+      "position": 5,
+      "title": "Books, By Their Covers: Hitchhikers Guide Graphic Design | Guide to the galaxy, Travel guide book, Books everyone should read",
+      "link": "https://www.pinterest.com/pin/355291858093841089/",
+      "source": "Pinterest",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTQdhYKRbbqgCC_hUKbg1LBwalc5hFvDef04aKtEm4ymk1UmePKJrPlt_LjHvB7Aq1dYoIBbiIJ1NlsjKc5XTus20V-QeQkUPl9ea4gZzUE1nhIYNB2UA",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZHc1eEBCoqPftFAadzWDlRod2yYttXPAqbNG2sonMquzcUaqq"
+    },
+    {
+      "position": 6,
+      "title": "Brian A. Terranova (@Terrasolo) / X",
+      "link": "https://twitter.com/Terrasolo",
+      "source": "Twitter",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTobhbt0ZKwS5VFQSzydvQt8vjhhiwervtw9rdJdbWu12RMXaoRjkTltT0aoTWQ6_jjnhnlkM8mMaX4wNSw065V_4Iu62Ljd402sY56ddVX_w",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzdlEoR3ISbjNe5XxuZHn4L4BEgzWRJMlaEoPfi7HQdc5uHg7"
+    },
+    {
+      "position": 7,
+      "title": "Can you recommend any good nonfiction books on the history of space travel and exploration? - Quora",
+      "link": "https://www.quora.com/Can-you-recommend-any-good-nonfiction-books-on-the-history-of-space-travel-and-exploration",
+      "source": "Quora",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTjBNX81Feu0IcQqnXbnh0EvJqrc2Dqhs-LtfrAgMTtCUPvGugFX9YLJNKLI4W5vUsgAo3vr-AxM6ap7uuWCfITKsWY3KBoi55mGJ5_sIf01kjV",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY5KiKmkmbn8fjglK6nNgHXs9sLSohw7yqwtrlSouRxqGGg4j6"
+    },
+    {
+      "position": 8,
+      "title": "Hip Wilson County Book Club | Mount Juliet TN",
+      "link": "https://www.facebook.com/HipWilsonCountyBookClub/",
+      "source": "Facebook",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKQ49HIZy8kguzBBPY9cU52thb52bgmisvDtgmE3Oj1COFAqD"
+    },
+    {
+      "position": 9,
+      "title": "Science Fiction Book Cover Art We Wish Was Really Covering Science Fiction Books",
+      "link": "https://www.giantfreakinrobot.com/ent/scifi/science-fiction-book-cover-art-covering-science-fiction-books.html",
+      "source": "Giant Freakin Robot",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT0Q8QtV8epyOO0lH6Gx8AWGNnhk8U8wbcooMNkAGsVO9uPm0recJXNwy567lISm--TEdOLT_kqizJWQEDJYluShT7Dh0J7s-LjgcPmpWOO6oVWnKeH8-ypyer8ndOK",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE5IZl-tkwcuXV-yjg29e1100uuizkFNTjvSpSPUWcmjNV8EWm"
+    },
+    {
+      "position": 10,
+      "title": "What are some novels or books we must go through? - Quora",
+      "link": "https://www.quora.com/What-are-some-novels-or-books-we-must-go-through",
+      "source": "Quora",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTjBNX81Feu0IcQqnXbnh0EvJqrc2Dqhs-LtfrAgMTtCUPvGugFX9YLJNKLI4W5vUsgAo3vr-AxM6ap7uuWCfITKsWY3KBoi55mGJ5_sIf01kjV",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLZpxPqO4ARjloFmDs1-W--_vc6AIodpB6s3sr00tR1NYeghUu"
+    },
+    {
+      "position": 11,
+      "title": "Don't Panic! The Hitchhikers Guide to the Galaxy | Books & Writing Amino",
+      "link": "https://aminoapps.com/c/books/page/blog/dont-panic-the-hitchhikers-guide-to-the-galaxy/6Miz_uPLl03ad4eZVKP8JP5jXdjLb0",
+      "source": "Amino Apps",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcR1r4sWOziXE2De3mfax_8a7kbIVQUvxGKiRzBSHE-rgZ4EKGJh0_G6xnNQXJ57_TxPVFfN2cD3DcFD1DTV-c--RHkXJDQPmVWPwXGLCnEHEIJ8",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq6rWUhOZMxDjJqyjAXMN9sO79WQ0cFu_p4rTBU7TYe15zyjUt"
+    },
+    {
+      "position": 12,
+      "title": "\"Book Cover Guide of the Galaxy\" Essential T-Shirt for Sale by KaanBurlu | Redbubble",
+      "link": "https://www.redbubble.com/i/t-shirt/Book-Cover-Guide-of-the-Galaxy-by-KaanBurlu/148346191.FB110",
+      "source": "Redbubble",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCAtmliek36Hrv8AAFeZIgkEoa8OCIVLUnMryiexJzpgNBxoCsvDF5CGtl_lEBN8unV-vClsufIguBCd8xv_Y11KEmGunvRbIgpA6ok37w1DxJSZnTrw",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkXLVRpuftJyBa-ZZ-_40RCrQLOJCCbt5sxUoLj6WCE4h67XV"
+    },
+    {
+      "position": 13,
+      "title": "\"Arthur\" Poster for Sale by sofich | Redbubble",
+      "link": "https://www.redbubble.com/i/poster/Arthur-by-sofich/21733809.LVTDI",
+      "source": "Redbubble",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCAtmliek36Hrv8AAFeZIgkEoa8OCIVLUnMryiexJzpgNBxoCsvDF5CGtl_lEBN8unV-vClsufIguBCd8xv_Y11KEmGunvRbIgpA6ok37w1DxJSZnTrw",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWYES2KZ121XIHBET7H0Ijm24aTigAp8SLEmqcNwRcIZwb4Zfv"
+    },
+    {
+      "position": 14,
+      "title": "\"books\" Meme Templates - Imgflip",
+      "link": "https://imgflip.com/memesearch?q=books&page=29",
+      "source": "Imgflip",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSZ-bCboQlHNyWWiPs1J2S3-f5fZgYfRChXo-FMjF559w-ClwVYrJCvqYC0xCsIz7Z81lIYIf3HFPOB5K5k1qY9uCJc3wwiDfBt06vBH56BjA",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ9gZzNm1Da2BpvXdkRmxhiRHesPJjim4MgIPDNFA3mSERg0YZ"
+    },
+    {
+      "position": 15,
+      "title": "Angshuman Sarma",
+      "link": "https://www.facebook.com/angshumansarmaofficial/",
+      "source": "Facebook",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBz5QV6PcL4OAhojWsQT1kmcE7LVesdF8a_ZCxigXPq3mpdDY"
+    },
+    {
+      "position": 16,
+      "title": "Tamriel Vault - WiP Event Build (FO4): The Kill-O-Zapper",
+      "link": "https://tamrielvault.com/groups/topic/view/group_id/12/topic_id/8315",
+      "source": "Tamriel Vault",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRVAqTp9rackddUx_-CxorJFaX7ZTQ2ACaPKQmBpm3szoC5NESqqrJE3OAnBsuwsJj7WDvL3uFcmhG3ZiNALpAJwVJApcFBrAdw5l7tp889sjZUB_fW",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCTtIRPwQ37zwpzJ2U5fa5DXiYZ5QwSSd90OQNSqmL4z0qe7dg"
+    },
+    {
+      "position": 17,
+      "title": "The Hitchhiker S Guide To The Galaxy Reviews By James \u2013 Otosection",
+      "link": "https://otosection.com/the-hitchhiker-s-guide-to-the-galaxy-reviews-by-james/",
+      "source": "Otosection",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSq47mP1Zc25CgkKbDk53zePQ6j6keQuh5yglkLt481lqlgi7lepkR1cDW9V-slM2uMfvYZnFt2oMI7pFGgHJGQnqY2CgJz1k3oLrMX0kJ8so659Q",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtYhAf2yD4mhchQ5McTEHAe-GBVs7-IC8bXQdfnrmr5dng5Uvw"
+    },
+    {
+      "position": 18,
+      "title": "Mihirparmar (mihirparmar5558) - Profile | Pinterest",
+      "link": "https://www.pinterest.jp/mihirparmar5558",
+      "source": "\u30d4\u30f3\u30bf\u30ec\u30b9\u30c8",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSnvVbIEiN8RBgnNF7708HN6kD1w8eZFUC3nxmK-82RGlvv2CMql4wHfV67jHLoEsg1zq-HRmqz4twUKxzvVzrlLH3_T2bEu20Fd5JKi_zelBDiRh2-",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfww1CfnN4x5AHUmLa15-Vd1kOOHltn_YAgC5bU0fF_DvMwW1D"
+    },
+    {
+      "position": 19,
+      "title": "What The Hitchhiker\u2019s Guide to the Galaxy taught Hong Kong chocolate maker Amit Oz about life, the universe and everything | South China Morning Post",
+      "link": "https://www.scmp.com/magazines/post-magazine/short-reads/article/3152041/what-hitchhikers-guide-galaxy-taught-hong-kong",
+      "source": "South China Morning Post",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQfTGzmwZAXIdZshMmmFVqa_M9l-R-spfTaqiKOIdaxsPIJgDJdab9rJg6az9tb8mMjxAc8qtZiJESAKp2NBfThVc1Wq4qt8EDQrqjxGi_q4FY",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx0cSDV_AIpoChCk9_FvySVnPlrM2IfbOb6S1Be7OnvWUpWuZC"
+    },
+    {
+      "position": 20,
+      "title": "Future Perfect - Fanedit.org",
+      "link": "https://ifdb.fanedit.org/future-perfect/",
+      "source": "Fanedit.org",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSLYUnGOC1qzbw11iZmpXVw7_5fm9fGwGfQOIA5muz_Z7IHdSYJJKur4ihgTOTeXAEB6MB-M5ThP8kMxennsDFCHLLLGTRKGJdWNH1w-iM4x05aUSRj",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR__omJ8_Iu43VVXcGQccT05dXu15fn-gp2zUjBCrfIA8CkbVPh"
+    },
+    {
+      "position": 21,
+      "title": "\"Deep Thought\" Photographic Print for Sale by sofich | Redbubble",
+      "link": "https://www.redbubble.com/i/photographic-print/Deep-Thought-by-sofich/21734020.6Q0TX",
+      "source": "Redbubble",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCAtmliek36Hrv8AAFeZIgkEoa8OCIVLUnMryiexJzpgNBxoCsvDF5CGtl_lEBN8unV-vClsufIguBCd8xv_Y11KEmGunvRbIgpA6ok37w1DxJSZnTrw",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZCSZoVS-FTC-T2jfVNBqDrw668w06i1bAZpY9GexBJO5D3sZJ"
+    },
+    {
+      "position": 22,
+      "title": "Per Anhalter durch die Galaxis / The Hitchhiker\u2019s Guide to the Galaxy",
+      "link": "https://www.pinterest.de/skropka/per-anhalter-durch-die-galaxis-the-hitchhikers-gui/",
+      "source": "Pinterest - Deutschland",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRR4WLclf_QOwVFwGUmCKJmJJSHKrItgBQhCTnsQSwzqfm6XD3kvVSCGFe9Bk6bpcockr73rwAqlRk2rxZN_MkHC90Bco7qyaCTNJFzvPV_63cXS_jT",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQu6AahPf3vS-TwwWcZi2mUbfilh_Ab2wHbO4l0lLh-hevD85QV"
+    },
+    {
+      "position": 23,
+      "title": "Yelling at the Stars by Hertzog, Michael by Fresh Prints Publishing",
+      "link": "https://www.thriftbooks.com/w/yelling-at-the-stars/38236085/",
+      "source": "Thrift Books",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSQHLwXjV8coO-4TZb6zIXyyACZ75coVjEKIDd9Pvhk5yXQQ6-x0ey1H6jAkHB1CG5HMtK0WiRtFRiqxa-I7IZGbXPHE9doHJEE0UeaHKEn9srMswZk1lkr",
+      "price": {
+        "value": "$27.50*",
+        "extracted_value": 27.5,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0hZO00NqG6SRtwBvS6lUjBHW0ZB64C3jXbI5QRa2HigA5zF-H"
+    },
+    {
+      "position": 24,
+      "title": "Hitchhiker's Guide Poster 1 by janussyndicate on deviantART | Hitchhikers guide, Galaxy poster, Hitchhikers guide to the galaxy",
+      "link": "https://www.pinterest.com/pin/hitchhikers-guide-poster-1-by-janussyndicate-on-deviantart--437060338822174035/",
+      "source": "Pinterest",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTQdhYKRbbqgCC_hUKbg1LBwalc5hFvDef04aKtEm4ymk1UmePKJrPlt_LjHvB7Aq1dYoIBbiIJ1NlsjKc5XTus20V-QeQkUPl9ea4gZzUE1nhIYNB2UA",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMNbk3qxaItrDGVWjV1Yo4XVHWN-N0WOfpAQM-Q6haXnDMX9Kh"
+    },
+    {
+      "position": 25,
+      "title": "The Last Machine in the Solar System Paperback \u2013 April 11, 2017",
+      "link": "https://www.amazon.com/Last-Machine-Solar-System/dp/1942645198",
+      "source": "Amazon.com",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRm4oMDPHDSWBDQhB5-csYIdmVde_ZfnfUYnfzlJJ9w7zjXG34H4SL9TXI2H8XWInsqPagyhBQjtImrHgLv9Bwvw_d2JvfjMfz3ox9yR82MKQ7yrQ",
+      "price": {
+        "value": "$8.39*",
+        "extracted_value": 8.39,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpnCA6-OPJzHnu3zjhiikmf_HQUCAwnROSbGJN9CCkRfjE5bdD"
+    },
+    {
+      "position": 26,
+      "title": "Episode 42: The Hitchhiker\u2019s Guide to the Galaxy | Required Reading With Tom and Stella",
+      "link": "https://requiredreadingwithtomandstella.com/2020/05/12/episode-42-the-hitchhikers-guide-to-the-galaxy/",
+      "source": "requiredreadingwithtomandstella.com",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSImsuBcE8w09onuGISQA57aUaex-k-LIYoDxOMlUWHFEJ2BupWm5MKYvFhnfDtxfvZWYLw04zZe8vAxZKPjNqy83fmwNvFrEFDPeaERHCbz8tWgOkhl_0c-BYoklh_XH2X7-gSfufsEA",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_Om_5MVPbLfbAjo7UjI9S-uPI2GjPeSGgcd4pIeRXFhE_g130"
+    },
+    {
+      "position": 27,
+      "title": "Citadel 32 : A Tale of the Aggregate (Paperback)",
+      "link": "https://www.walmart.com/ip/Citadel-32-A-Tale-of-the-Aggregate-Paperback-9781312945920/53581677",
+      "source": "Walmart",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTty0_uq5QGsSpEA1agUnwTMPZTu_YvS9mg_tzOR2qy22fR-FGLLoSmA4z4XotJkADD4W1gHczZdZT5PEPvM9Sv6mBjhn-lRnHs4p0G3COAlV8EwJE",
+      "price": {
+        "value": "$12.52*",
+        "extracted_value": 12.52,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HLIrxtwNZ1D73-36t2F__ky3gbTO-PRkfkN-BNMYSajZv6z-"
+    },
+    {
+      "position": 28,
+      "title": "The Last Woman on Earth \u2014 Caroline Hadilaksono",
+      "link": "https://www.hadilaksono.com/books/the-last-woman-on-earth",
+      "source": "Caroline Hadilaksono",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQQZWyc0pGtS1eDeLZCh6LG-Y-VAfzWmtqIGyxb5RmFQ0HZb3mtTvrkwuTcHcKNaOzJ94iEWBP0GkgE8AT_CF234vSKFGLVxcwxTtWAQfMwR1gE4irtQREM",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmu7hKMmkM7DceeGSWzFAQtr1NiDu811ODzXzcWO1LxJfXi70Y"
+    },
+    {
+      "position": 29,
+      "title": "Fate and the Exogames (Hardcover)",
+      "link": "https://www.northshire.com/book/9780645186888",
+      "source": "Northshire Bookstore",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSPAn1jNBs6d_GuB9UnSuG9zXw2Gm4ZAQQxEcxbrekpxSbJP_HTYrH0Ow7fBJguFACZWlW_29MG_THqrTwYWyaSWW5ZMiAZ2zIgHPkHHTIV27suptVYXzQ",
+      "price": {
+        "value": "$22.99*",
+        "extracted_value": 22.99,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROweb-mO1wALLwQa65hnYmziwOGN4lRFDnmOI_Q0yk1vPRwO_5"
+    },
+    {
+      "position": 30,
+      "title": "NASA Mars Recruitment Posters, Explore Mars, HR Space Poster, Extra Large Wall Metal Print, NASA Travel Posters, Space Art",
+      "link": "https://www.etsy.com/listing/572216458/nasa-mars-recruitment-posters-explore",
+      "source": "Etsy",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSBC4oQ3bkBuevoH8XpxAl0ri8XiuLd4I543l3vUizk2p7JnS_Kl1aJTVxs9nt4vEC2m0siqwjI-o3Mysd9TaJqSrdOdkseIKFJA66bIfBIaDs",
+      "price": {
+        "value": "$150.00*",
+        "extracted_value": 150.0,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsouEodzsgdyZqbb68D2qZ1U5BI5tAhvPqKu-L3PEZICjiyWmE"
+    },
+    {
+      "position": 31,
+      "title": "Incredible Journey of the Space Rocket",
+      "link": "https://www.lulu.com/shop/adnan-ad7/incredible-journey-of-the-space-rocket/ebook/product-kpzyg7.html",
+      "source": "lulu.com",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcS2zYRz08p-buica0L-qseCw8YBOeeOCKVJETJvQRCiiw2W2iE-k2O1KoZJuIsLfjuBTRN8yvDvxXtx765r77HtOtOkmOv7XuPc0mBQHxFfRCQ",
+      "price": {
+        "value": "$12.10*",
+        "extracted_value": 12.1,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRq6SQl1I8lXjc6L1Ml3QAyf-8gZyvA_sdDbCK1JwI1J95OJG8r"
+    },
+    {
+      "position": 32,
+      "title": "ArtStation - The Galaxy and the Ground Within: fan cover design",
+      "link": "https://www.artstation.com/artwork/14VE93",
+      "source": "ArtStation",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR4A9kl0Ozk8e7sOJhjM9GHLLC2OixfoVZ_tBKG6HMvSQCOdan9Ytw3I1yz4fVtqkLuu7MLirrV5NKcaXNozb-kn7OPVosiK_mO61ldfWwHJYRyofUbImE",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa8DtaRfrin54AWgIjaPA5S1tk34XNG-YzGdoOod9Rz-nK2NpX"
+    },
+    {
+      "position": 33,
+      "title": "WFU Theatre Concludes Its Season with Silent Sky | Education | yesweekly.com",
+      "link": "https://www.yesweekly.com/education/wfu-theatre-concludes-its-season-with-silent-sky/article_963fa6ac-c41e-11ed-84bc-4ffd4bd0a8f4.html",
+      "source": "Yes! Weekly",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQEA7t9du6KCSfoLsNH0hxmRSIBZ_MeosGTswG4VMf5fw8AAE_BUM6j7lkfgbxBMpaUo4d2sfh17SF0Mf9ayAiiQQaBUEXuhWEqEuXsMgz8Zwp4oVAvuA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrMwIagyfWl6OHpDBW_kQZbZLC8c1YKrPKxhxw7XhiVXwfVJgQ"
+    },
+    {
+      "position": 34,
+      "title": "Publications \u2013 Joe Graves",
+      "link": "https://joegraves.org/publications/",
+      "source": "joegraves.org",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTYrm6a0TuXK0DlrEU-G1b5Eud9KXVbtFJJVWEo_mqZ750K4PuajNOs5B4QHT6xFmfHW0FFaww9o7wBHJj0-Geb_0x-pssQXx1Hz4yz_F7X0s9n",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYupqM5zomwEanDsscOg-PFa-U-6_UPA5Qt2wC6r-vnIOsDpwy"
+    },
+    {
+      "position": 35,
+      "title": "Ever wonder what might have been? Here are some scenarios, courtesy of science fiction - The Washington Post",
+      "link": "https://www.washingtonpost.com/entertainment/books/ever-wonder-what-might-have-been-here-are-some-scenarios-courtesy-of-science-fiction/2020/03/11/e9577206-62d9-11ea-b3fc-7841686c5c57_story.html",
+      "source": "Washington Post",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRuJ_k43mknRNFToFYliyuEr4wVWoLWp-7x6rs-wk8F5URwsUUvTYK-vMifehj1Saf04v91ETTeg7aNv8AJpA_A_0lqZWnvsBDRT6f1UqcJWVzAoapkFnGdN1uV",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwOOx46dSO0hilxx4a5zeD8Ex38DRkzF-o4ctFJR2umljXmIdN"
+    },
+    {
+      "position": 36,
+      "title": "Life imitates (science fiction) art in Levy's book",
+      "link": "https://www.currentargus.com/story/entertainment/books/2020/08/02/life-imitates-science-fiction-art-levys-book/5520001002/",
+      "source": "Carlsbad Current-Argus",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTQ89yq6YUS8FzsnGTbzafsgeX1Q69bQVOXCvuY4cZHRV3ptnx4EpQ1eg6p80tPMRhwDIdt7iqVnTiJDu6r9YkU50M3PDrxdKcD8sgl4uoJaIQ9sqeedjPHYw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZfkYhn8LCZ7HLtE1myq0007B8DRajqihFmo1UvSDR37yrfhc7"
+    },
+    {
+      "position": 37,
+      "title": "FREE PSD 6X9 The Last Galaxy Book Cover Design",
+      "link": "https://www.psdcovers.com/free-psd-6x9-the-last-galaxy-book-cover-design/",
+      "source": "PSDCovers",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRol8I4CmK6yI1TVUFudGsDJIweDPJqXAE3BjLb3iDvVnRJmy-ds18CAU8Nr3yPyCCvwsmIt_eK_g_ZYGyjHZc0DdjtL9Fe5e7w7v0CC1yVuQA3jYvqkA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlPGGBBafjM0kFrVxJpjczgm9rrFHEYmQmVx_84tbdTNXxPpp"
+    },
+    {
+      "position": 38,
+      "title": "The Greatest Sci-Fi Authors Of All Time, According To Ranker",
+      "link": "https://screenrant.com/greatest-sci-fi-authors-of-all-time-according-to-ranker/",
+      "source": "Screen Rant",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTyS1ndyAuYsWpjFD5RJZyaVAul50wDy11yJQTm_vZLPVWhX78u-U_mC8q96Y9wp7WcMqAiOXOBuo_uyxK7a1EbzU3qHAxfW6rEGcCQ0NsLIN8pnw",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-FnY40p1SR2grc2lLF6vLHt0Ux2tCq1wL5pF0nT_C0_4AkZ_Q"
+    },
+    {
+      "position": 39,
+      "title": "Citizen Of The Galaxy By Robert A. Heinlein 1957 Library Edition In",
+      "link": "https://www.ebay.com/itm/144272796289",
+      "source": "eBay",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT5NXsW5qpQoNKtvnEC0sNL88H54opWmBBYIh2gQ3U_SGUU-yc8xV_BfeECVq4HYfwroQsx3k4lpMvjDByZM4KvONyK63j7aI6RPQrDFwRa9lo",
+      "price": {
+        "value": "$375.00*",
+        "extracted_value": 375.0,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5CRDfbxEpIyhgWY0pfrQ-gv4PbJk4QqkWCPKqmobwe82481fY"
+    },
+    {
+      "position": 40,
+      "title": "Paramount\u2019s New Banner Lands \u2018Vacation Guide to the Solar System\u2019 \u2013 The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/paramounts-new-banner-lands-vacation-guide-solar-system-1030501/",
+      "source": "The Hollywood Reporter",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcT8mLtvuvAFl9MdhYd8Sb28FJOPBSB7H3F6xfQMLCAOKYLYj8wkOe3t4F7_NZT5_JGUeLnK0_ztRtDxetxxe_u0lGQp2uCAgQtrbtSixRcludy7CZCMICQPbOJRrMlX",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhAyM5S2RyX3Pn5CB-XQF_04kMsRxqSZguHmw4fAvsdxnmLlD6"
+    },
+    {
+      "position": 41,
+      "title": "Looking for cover feedback. The first is my latest, the second is my OG attempt. : r/BookCovers",
+      "link": "https://www.reddit.com/r/BookCovers/comments/yel5rp/looking_for_cover_feedback_the_first_is_my_latest/",
+      "source": "Reddit",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRFeJS-IhfJCysoVmCqJ1d-1lzbIHTsbcy4DrBsZJpxQ31zznhym7THnNEKCEnngpvdl4aupEFtEblIPBEMJY7_biy055d40m6TYfVg7CpFOrWOXw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd240YoHLHYT8UxkV96j8WA5EaTF4tcuUxb9eAVVXCdmt6jt4c"
+    },
+    {
+      "position": 42,
+      "title": "The Lady Astronaut of Mars",
+      "link": "https://us.macmillan.com/books/9781466873827/theladyastronautofmars",
+      "source": "Macmillan Publishers",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRPpoky0Frc4Gss_mOPi9ity0CSLVaGFK6vadOZ_bXoy-p4r8AltD7G5WOnH_tpPzpVB6cMvMu8Rmbkli3sy29ymAbqD03Wc4SxGRFmT4ne5q6rehJ3",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW2zLUvo4JzA4U4oftdv-L2nFry0U-HunSgklJnxoyIQY7Xe3O"
+    },
+    {
+      "position": 43,
+      "title": "Nebula Award winning Author - Lady Astronaut Series - Exclusive Limited Deluxe UK HB Editions - The Calculating Stars - The Fated Sky - The Relentles",
+      "link": "https://www.abebooks.com/signed-first-edition/Nebula-Award-winning-Author-Lady-Astronaut/31443823982/bd",
+      "source": "AbeBooks",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRVPmzXUtOoDwQ9aHcK8q_ribwzk-6Xw8V0cOXFjryRGGElHKFFWafm8g0jOEJ7IvEMD9I1wubvLHvjzrKx8JyP9sG_z3b7aLIimX2vWOAJ7EIek8-B",
+      "price": {
+        "value": "$531.90*",
+        "extracted_value": 531.9,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx42jI1-Xrymmhv5VGcxlgDP4K7-7ObwmP8-XlhqcG2o0N0fKK"
+    },
+    {
+      "position": 44,
+      "title": "Pin on Quick Saves",
+      "link": "https://www.pinterest.com/pin/hitchhikers-guide-to-the-galaxy-book-poster-unframed--946037465447945372/",
+      "source": "Pinterest",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTQdhYKRbbqgCC_hUKbg1LBwalc5hFvDef04aKtEm4ymk1UmePKJrPlt_LjHvB7Aq1dYoIBbiIJ1NlsjKc5XTus20V-QeQkUPl9ea4gZzUE1nhIYNB2UA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHxqSGt1eCL8OeuhuaasMT0ImT1bgUb3wq6NWGvfXZRBbnIttx"
+    },
+    {
+      "position": 45,
+      "title": "18 Best Middle Grade Books About Space",
+      "link": "https://readingmiddlegrade.com/middle-grade-books-about-space/",
+      "source": "Reading Middle Grade",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcS6C85xBu1quw59HxMl0WQdGzN7OsMGLjVmk9WuNWRTQwCuvwt5yNVAC9hbkMns19m2SE-kk2gXO_WSoqKk_c79smvkWzFHboMOrALFUBMT8ha1UyjCWukSrJn9",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRk6lxLyV3-V0DhihR5TrQsTC0oxY7IP897Tp9-b7-cYEA3GT5L"
+    },
+    {
+      "position": 46,
+      "title": "The Extraordinary Colors of Auden Dare by Zillah Bethell - Ebook | Scribd",
+      "link": "https://www.scribd.com/book/489965118/The-Extraordinary-Colors-of-Auden-Dare",
+      "source": "Scribd",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcR_NPdamzu9RB4RD6vGyInj9h2J6E2nLBu7ElwyoPKuGU5SBXFAok-67mAVDsOXixvjyjkW81A9NP8WxjjSYM4egtIBKTJrYQ5LpOK0A3ipD-rLKg",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHMEAzFMASkAXtCWjmMkt9ck8hxXhVUQSfzLmlyrdYrmm-UB84"
+    },
+    {
+      "position": 47,
+      "title": "Review of The Last Starfighter: A New Musical soundtrack at The Thunder Child science fiction web magazine",
+      "link": "http://thethunderchild.com/Reviews/Music/LastStarfighter/LastStarfighterMusical.html",
+      "source": "Thethunderchild.com",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR28UKLMcee96x5JqIf7Y57oVIkkgQcSN2yZa2Q1cAJ9FPNrcqBxS3DalMJxQoSQ2GPrx6RH_-KdKkPgMCxuTKzlQEbtXFSugTR5o6ostnQeTYxhaY1XMQ",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-pq51FehEB5TJjMI9m5cBseJYeXCQB5n142TTgQKiUxeFd-x3"
+    },
+    {
+      "position": 48,
+      "title": "Kids - Spaced Out - Maryland's Digital Library - OverDrive",
+      "link": "https://maryland.overdrive.com/maryland-cecilcounty/kids/media/2237245?cid=1435115",
+      "source": "OverDrive",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRPjJ7GKzbCbDKGWINjJqIg0hE5hs_gBcZS--fMbHrvksV3KNxmNUHQgwGzFTwTv0AoZLb79mohf3lwfLVxshUU6-IpED6GHw3zyQiGXBnbhmx4I5sKsNmfojAa",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzpkc6DwCSF4R6kdrVnioFI7CUmipeJNxKyxg8IXF4owhS2c5C"
+    },
+    {
+      "position": 49,
+      "title": "The Human Touch",
+      "link": "https://bookshop.org/p/books/the-human-touch/8068215",
+      "source": "bookshop.org",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR4MedYJBISQOIKcBZhUhF87olByLM2AjK3Zvloqy062OYK290udvV4ZaXgQ74GJqMZ6aFZSXciPFO8JZdzrGa6w27ijLzn54iR92SER7qzQwk",
+      "price": {
+        "value": "$17.95*",
+        "extracted_value": 17.95,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw6Ap3I_y6ZyruyOCfcV1Oimoca7K-D5gsceHMfFJIhcOEPwls"
+    },
+    {
+      "position": 50,
+      "title": "Anderson Design National Parks Wall Calendar 2022 | 60% Off",
+      "link": "https://www.andersondesigngroupstore.com/products/2024-wall-calendar-space-travel",
+      "source": "Anderson Design Group",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ3HZDRlYBYACweoADq4bzPn6IhkShh2RA-z8dfdQ29c5gJxbQeVp1YLnXPHZfGdwIkCYEUfXatu_fI8jrba-TeRdG0gRY0S38OytDOSH2IKyjCAg3paKbQY_8EYfbUb5u89DL7-w",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW1VjL_1cU7sFgzGOINqtatyKfgi3McyXvEUVKX_PbZJUVpU7E"
+    },
+    {
+      "position": 51,
+      "title": "Read Bilingual Book Hitchhiker's Guide to the Galaxy (summary) (Hitchhiker's Guide to the Galaxy) in English with translation | AnyLang",
+      "link": "https://anylang.net/en/books/en/hitchhikers-guide-galaxy-summary",
+      "source": "AnyLang",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTCdb7zC6wR3B3RLR_YAlb0gxYMn_iE0ACnubNUggZeVWq3STlOKZ3nTAEwmn3c5k5jdf1F1xsWuIraoJTl8DsV4AuODB6je5LWI2Ah8aTrkQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ90zfd7xVFNFNEETf9azrRGpihsnzMkqp4wQ5nIS5DLwoIW-kf"
+    },
+    {
+      "position": 52,
+      "title": "Vacation Guide to the Solar System Science for the Savvy Space Traveler!",
+      "link": "https://books.apple.com/us/book/vacation-guide-to-the-solar-system/id1173742154",
+      "source": "Apple",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSOieZGTHl3yWRHZubm7OjQeMfUO7Qdcx8T72uFsjD5nqQNiMz9Gd5LOPfeVyaV4pVuW4_-RuLi4o8naTOg-UhwbbImlYTT2Zqg1SzS5pZElR7wb5A",
+      "price": {
+        "value": "$6.99*",
+        "extracted_value": 6.99,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzmNnNN1oUDRtQ3B8kJFrb_UXo1v3tU7JBYBS1Q9buhZfrJ1j"
+    },
+    {
+      "position": 53,
+      "title": "Best Dad In The Alpha Quadrant Personalized Canvas Print 02HUDT120523HH",
+      "link": "https://goduckee.com/products/best-dad-in-the-alpha-quadrant-personalized-canvas-print-02hudt120523hh",
+      "source": "GoDuckee",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRhyW1Dhg8C2rb-CQYkr-l-pVPqkWXoDjAOrPw_6MiraaW_QfwIEjjQ2L-zIei9y0SHkR5X--Le61NcdC5xs14lqp6AvNpfUQ9tmDlb0MviE1Q",
+      "price": {
+        "value": "$28.99*",
+        "extracted_value": 28.99,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvyUkTUIcNG0EPZyFQMUA3QbEd4Nx7NxU1YP1nPdy48JAJ_92a"
+    },
+    {
+      "position": 54,
+      "title": "Tevye the Dairyman & Motl the Cantor's Son by Aleichem, ISBN: 9780143105602, Condition: Used",
+      "link": "https://www.bkstr.com/floridastore/product/tevye-the-dairyman---motl-the-cantor-s-son-936305-1",
+      "source": "eFollett",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcS8wiXepchps71J5mDhL3jyLxtL9Gma3xMK9pI4SHRL8Xj1XL_bXkk9H5TlnNzwpYM0oGtAyT223enec9Hw9P7M8H1xaaGi0tQ7yg0SYOCN4rP-",
+      "price": {
+        "value": "$12.75*",
+        "extracted_value": 12.75,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmmJYbxO3-WR2KE_sQL_2Eml5WIvWfVZEsr4RnWtNjHwOojsE"
+    },
+    {
+      "position": 55,
+      "title": "Smithsonian Books (@smithsonian_books) \u2022 Instagram photos and videos",
+      "link": "https://www.instagram.com/smithsonian_books/",
+      "source": "Instagram",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaD1_PzbB3g0fHO7RKOgc7Oeh3GApm9VF2ulxIekOt1wj9R71L"
+    },
+    {
+      "position": 56,
+      "title": "Sellersville, PA Book Signing Events | Eventbrite",
+      "link": "https://www.eventbrite.com/d/pa--sellersville/book-signing/",
+      "source": "Eventbrite",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRmfGAajW3g8-pyIh8kxrm9RH9va_S_PubFgrzRCF0CQ5xBouYQywCrYIAZthSEUnmsFCfsIWgP1LXQIlwGzkhpN5B4vvVC3k5TD3aNk8EQB0H0AwDNWhM",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRicHkyUX2uLKMVdGh1e3ShgduIRBn0mKziO1qH9whjT083u9Tx"
+    },
+    {
+      "position": 57,
+      "title": "The Curbside Chronicle \u2022 INSP",
+      "link": "https://hub.insp.ngo/street-papers/the-curbside-chronicle/",
+      "source": "International Network of Street Papers",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRP88oXXXENQ25OhMGTp_qe3kaE06tCFZRBsPcHPqLkOSDVQ6upiI1SeWqyorBy_Z21XI16710JXnSSnChdzrZZ68EuOs2NidrRfjMeVhNhv6w",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSed2JLL6W8Gut7wcSt2Ha985Q0vBcumWCb7e7IzLSpv0mNRbR2"
+    },
+    {
+      "position": 58,
+      "title": "Diary of the Galaxy Kid eBook by robert pleasant - EPUB Book | Rakuten Kobo 1230005143030",
+      "link": "https://www.kobo.com/ww/en/ebook/diary-of-the-galaxy-kid-2",
+      "source": "Rakuten Kobo",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTKc782rB7AOLHMFgbY6T87OdSLBbnH7stPrANY-0dT_sbsrsYJY8SaPfhSgLPqDng3nUizghZEIz3G2hbqz6gG5V71tjwAA9fJ6VQ919V-F2A",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWJSrVcZE25tA1K41bCiS3fJvSQZ0enSvHjtnQBvJH4n1wKS36"
+    },
+    {
+      "position": 59,
+      "title": "Book Cover Guide Of The Galaxy Books Coffee Mug | Redbubble",
+      "link": "https://www.redbubble.com/i/mug/Book-Cover-Guide-of-the-Galaxy-by-KaanBurlu/148346191.9Q0AD",
+      "source": "Redbubble",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCAtmliek36Hrv8AAFeZIgkEoa8OCIVLUnMryiexJzpgNBxoCsvDF5CGtl_lEBN8unV-vClsufIguBCd8xv_Y11KEmGunvRbIgpA6ok37w1DxJSZnTrw",
+      "price": {
+        "value": "$19.25*",
+        "extracted_value": 19.25,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-YTpQfuD7ZqG8RmWi112LnRQXwTiVReoWZ4EF30ltQxladY2W"
+    },
+    {
+      "position": 60,
+      "title": "The Valace Standard",
+      "link": "https://www.amazon.com/Valace-Standard-Ryan-C-Thomas-ebook/dp/B00DCI8CNE",
+      "source": "Amazon.com",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRm4oMDPHDSWBDQhB5-csYIdmVde_ZfnfUYnfzlJJ9w7zjXG34H4SL9TXI2H8XWInsqPagyhBQjtImrHgLv9Bwvw_d2JvfjMfz3ox9yR82MKQ7yrQ",
+      "price": {
+        "value": "$0.99*",
+        "extracted_value": 0.99,
+        "currency": "$"
+      },
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP_cncUcw0309g4EqkTREY3s4ZFxAJMOOnS6JvGEHxoseru1TA"
+    }
+  ],
+  "image_sources_search": {
+    "page_token": "YzcyZWJjNjUtOTQwZC00ZWMzLWI2NTEtMzcwYTAyMWU3M2M2",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_lens_image_sources&page_token=YzcyZWJjNjUtOTQwZC00ZWMzLWI2NTEtMzcwYTAyMWU3M2M2"
+  }
+}
